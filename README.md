@@ -4,6 +4,24 @@ Base em Markdown para um guia vivo sobre preparação turbo em motores AP, pront
 
 Nada de Python, nada de MkDocs.
 
+## Site publicado
+
+Depois do deploy configurado no GitHub, o manual fica em:
+
+```text
+https://marceloconilho.github.io/guia-ap/
+```
+
+O deploy é automático a cada push na branch `main`, via GitHub Actions (`.github/workflows/deploy-pages.yml`).
+
+### Ativar GitHub Pages (uma vez)
+
+No repositório `marceloconilho/guia-ap`:
+
+1. **Settings** → **Pages**
+2. Em **Build and deployment**, escolha **Source: GitHub Actions**
+3. Faça push na `main` ou rode o workflow **Deploy GitHub Pages** manualmente
+
 ## Como rodar localmente
 
 ```bash
@@ -11,10 +29,10 @@ npm install
 npm run dev
 ```
 
-Depois abra o endereço exibido no terminal, normalmente:
+Depois abra o endereço exibido no terminal. Com o `base` do GitHub Pages, use:
 
 ```text
-http://localhost:5173
+http://localhost:5173/guia-ap/
 ```
 
 ## Build estático
@@ -30,7 +48,11 @@ O build final fica em:
 docs/.vitepress/dist
 ```
 
-Esse diretório pode ir para GitHub Pages, Netlify, Vercel, Cloudflare Pages ou qualquer hospedagem estática.
+Para testar o preview com o mesmo caminho do GitHub Pages:
+
+```text
+http://localhost:4173/guia-ap/
+```
 
 ## Estrutura
 

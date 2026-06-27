@@ -10,8 +10,7 @@ ultima_atualizacao: "2026-06-27"
 
 Este manual nasceu de uma pergunta simples: **como montar um AP turbo entendendo o porquê das escolhas, e não apenas copiando receita?**
 
-
-## Versão Node/VitePress
+Site publicado: [marceloconilho.github.io/guia-ap](https://marceloconilho.github.io/guia-ap/)
 
 Este projeto está preparado para rodar com Node.js usando VitePress.
 

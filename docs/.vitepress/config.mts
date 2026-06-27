@@ -1,11 +1,18 @@
 import { defineConfig } from 'vitepress'
 
+// GitHub Pages (project site): https://marceloconilho.github.io/guia-ap/
+const repoBase = '/guia-ap/'
+
 export default defineConfig({
   title: 'AP Turbo Engineering Manual',
   description: 'Da física dos gases ao acerto final.',
   lang: 'pt-BR',
+  base: repoBase,
   cleanUrls: true,
   lastUpdated: true,
+  head: [
+    ['link', { rel: 'icon', href: `${repoBase}assets/diagrams/sistema_turbo_energia.svg`, type: 'image/svg+xml' }]
+  ],
   themeConfig: {
     logo: '/assets/diagrams/sistema_turbo_energia.svg',
     siteTitle: 'AP Turbo Manual',
