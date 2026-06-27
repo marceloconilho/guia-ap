@@ -84,9 +84,13 @@ Para seu AP 300-350 cv, backpressure controlado é mais importante que buscar pr
 
 ## Referências usadas neste capítulo
 
-- **Garrett: diferença que o A/R faz**. Explica o impacto do A/R na resposta e apresenta comparação em dinamômetro.  
+Índice completo: [Referências — Volume I](../apendices/referencias.md#volume-i--turbo-e-sistema-de-admissao-pressurizada)
+
+- **`garrett-ar-article`** — 🔬 Fabricante oficial. Backpressure, restrição e resposta do sistema turbo.  
   Fonte: https://www.garrettmotion.com/news/newsroom/article/turbo-tech-how-to-turbo-and-the-difference-an-a-r-makes-for-optimizing-your-turbo-system/
-- **Master Power R4449-2 ficha comercial**. Rotor compressor 44,05x63 mm, rotor turbina 49,5x61,5 mm, carcaça turbina monofluxo A/R .48, faixa 145-360 hp.  
+- **`manual-vol1-backpressure`** — 📁 Manual interno. Definição canônica de P3 e backpressure neste guia.  
+  Fonte: [Cap. 7 — Backpressure](07-backpressure.md)
+- **`masterpower-r4449-regis`** — 🟡 Ficha comercial. A/R .48 monofluxo; faixa HP declarada.  
   Fonte: https://www.regisracing.com.br/turbinas/master-power-turbo-r4449-2-145-360-hp-44-05-x-49-5
-- **Auto Avionics A50-2.48P**. A/R fria .50, rotor frio 51x71, A/R quente .48, rotor quente 49,4x58, pulsativa.  
+- **`autoavionics-a50-248p`** — 🟡 Ficha comercial. A/R .48 pulsativa; comparação de restrição/coletor.  
   Fonte: https://autoavionics.com.br/produto/a50-2-48p/

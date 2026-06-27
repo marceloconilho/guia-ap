@@ -84,7 +84,11 @@ Para seu projeto, uma wastegate externa boa e bem posicionada vale mais que econ
 
 ## Referências usadas neste capítulo
 
-- **Auto Avionics A50-2.48P**. A/R fria .50, rotor frio 51x71, A/R quente .48, rotor quente 49,4x58, pulsativa.  
+Índice completo: [Referências — Volume I](../apendices/referencias.md#volume-i--turbo-e-sistema-de-admissao-pressurizada)
+
+- **`autoavionics-a50-248p`** — 🟡 Ficha comercial. Posicionamento de wastegate em setup pulsativo AP.  
   Fonte: https://autoavionics.com.br/produto/a50-2-48p/
-- **Garrett G25-550 48mm**. HP 300-550, 1.4L-3.0L, compressor 48x60 mm, eficiência máxima 80%, velocidade máxima 185 krpm, Mar-M turbine wheel, dados e mapas no site oficial.  
+- **`garrett-g25-550`** — 🔬 Fabricante oficial. Controle de boost e faixa de operação declarada.  
   Fonte: https://www.garrettmotion.com/racing-and-performance/performance-catalog/turbo/g-series-g25-550/
+- **`garrett-ar-article`** — 🔬 Fabricante oficial. Wastegate, A/R e controle de pressão.  
+  Fonte: https://www.garrettmotion.com/news/newsroom/article/turbo-tech-how-to-turbo-and-the-difference-an-a-r-makes-for-optimizing-your-turbo-system/

@@ -84,9 +84,17 @@ Minha recomendação base: A50-2.48P + coletor pulsativo bom, intercooler para 4
 
 ## Referências usadas neste capítulo
 
-- **Auto Avionics A50-2.48P**. A/R fria .50, rotor frio 51x71, A/R quente .48, rotor quente 49,4x58, pulsativa.  
+Índice completo: [Referências — Volume I](../apendices/referencias.md#volume-i--turbo-e-sistema-de-admissao-pressurizada)
+
+- **`projeto-marcelo-dyno`** — 📁 Dado medido do manual. ~100 cv roda / ~15 kgfm aspirado; baseline do projeto.  
+  Fonte: [Cap. 13 — Projeto Marcelo](13-projeto-marcelo-ap-20.md)
+- **`autoavionics-a50-248p`** — 🟡 Ficha comercial. Recomendação base A50-2.48P + coletor pulsativo.  
   Fonte: https://autoavionics.com.br/produto/a50-2-48p/
-- **Master Power R4449-2 ficha comercial**. Rotor compressor 44,05x63 mm, rotor turbina 49,5x61,5 mm, carcaça turbina monofluxo A/R .48, faixa 145-360 hp.  
+- **`masterpower-r4449-regis`** — 🟡 Ficha comercial. Alternativa custo/benefício fase 1 (~250–300 cv).  
   Fonte: https://www.regisracing.com.br/turbinas/master-power-turbo-r4449-2-145-360-hp-44-05-x-49-5
-- **Garrett G25-550 48mm**. HP 300-550, 1.4L-3.0L, compressor 48x60 mm, eficiência máxima 80%, velocidade máxima 185 krpm, Mar-M turbine wheel, dados e mapas no site oficial.  
+- **`garrett-g25-550`** — 🔬 Fabricante oficial. Referência premium G25-550 para evolução.  
   Fonte: https://www.garrettmotion.com/racing-and-performance/performance-catalog/turbo/g-series-g25-550/
+- **`fueltech-ft450-produto`** — 🔬 Fabricante oficial. ECU do projeto; acerto e logs.  
+  Fonte: https://www.fueltech.com.br/produtos/ft450
+
+> ⚠️ Metas 300–450 cv neste capítulo são **objetivos de projeto**, não potência garantida. Fichas 🟡 sustentam escolha de turbina, não resultado final no dinamômetro.

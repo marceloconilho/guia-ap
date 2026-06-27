@@ -38,7 +38,9 @@ No AP, isso aparece todo dia na oficina: o cara troca borboleta, escape e comand
 - Comando agressivo demais pode **ganhar** pico e **perder** rua: o carro fica áspero, exige marcha alta e castiga câmbio fraco. 🔧
 - Borboleta maior nem sempre acelera melhor. Se o cabeçote e o coletor não acompanham, você só aumenta o "buraco" em baixa rotação. 📚
 - Forjar virabrequim, bielas e pistões no aspirado **não** costuma render dezenas de cavalos por si só. O ganho principal é margem mecânica para a fase turbo. 🔧
-- O recorde aspirado conhecido de AP 2.0 8V no Brasil fica na casa de **230 cv** — extremo de competição, não referência de rua. Isso mostra o teto teórico do bloco **sem** pressurização, mas não invalida que a maioria dos projetos honestos fique bem abaixo disso. ⚠️
+- O recorde aspirado citado para AP 2.0 8V no Brasil fica na casa de **230 cv** — extremo de competição, não referência de rua. ⚠️ Esse número aparece em compilações comunitárias (`ap-mecawiki-ea827`); **não encontrei bancada pública auditável** que sustente o recorde como dado universal.
+
+> ⚠️ **Fonte de confiabilidade limitada**: recordes aspirados citados em wikis (`ap-mecawiki-ea827`). Trate como curiosidade histórica, não como meta de projeto.
 
 ## 🟦 Essencial
 
@@ -78,7 +80,16 @@ Este capítulo é a visão geral. Os próximos aprofundam cada sistema:
 | AP 1.8 | 1.781 cc | Transição de linha | Meio-termo raro hoje; lógica parecida com 1.6/2.0 |
 | AP 2.0 | 1.984 cc | Gol GTI, Santana, Saveiro | Melhor base para evolução; referência deste manual |
 
-🔬 **Dado de fábrica (AP 2.0 injetado multiponto)**: potência máxima em torno de **111–116 cv** no motor e torque em torno de **17,3–22,3 kgfm**, dependendo da versão e norma de medição. Fontes divergem porque há variantes Bosch/Marelli e diferença entre potência líquida e medida com acessórios.
+🔬 **Dado de fábrica (AP 2.0 injetado multiponto)** — cruzado em fontes 🟡/📚:
+
+| Medida | Valor | Fontes |
+|---|---|---|
+| Potência máxima | **111 cv** a 5.250 rpm | `ap-gol-2000-ficha` 🟡 |
+| Torque máximo | **17,3 kgfm** a 3.000 rpm | `ap-gol-2000-ficha` 🟡 |
+| Potência alternativa | **112 cv** | `ap-santana-glsi-ficha` 🟡 |
+| Faixa injetada 8V | **109–121 cv** conforme alimentação | `ap-bremei-vw` ⚠️ · `ap-wikipedia-pt` 📚 |
+
+> ⚠️ **Fonte de confiabilidade limitada**: `ap-bremei-vw` e wikis compilam variantes Bosch/Marelli/carburador. Use para entender **faixa**, não um único número absoluto. Detalhes completos no [índice de referências — Volume 0](../apendices/referencias.md#volume-0--preparacao-aspirada).
 
 ## 🟧 Entusiasta: o porquê
 
@@ -274,11 +285,25 @@ Estado conhecido do Gol G2 1996:
 
 ## Referências usadas neste capítulo
 
-- **Ficha técnica Volkswagen Gol 2.0 2000 (motor AP-2000)**. Potência máxima 111 cv a 5.250 rpm; torque máximo 17,3 kgfm a 3.000 rpm.  
+Índice completo: [Referências — Volume 0](../apendices/referencias.md#volume-0--preparacao-aspirada)
+
+- **`ap-gol-2000-ficha`** — 🟡 Ficha comercial. Sustenta 111 cv / 17,3 kgfm (Gol 2.0 2000, AP-2000).  
   Fonte: https://www.fichacompleta.com.br/carros/volkswagen/gol-2-0-2000
-- **Volkswagen EA-827 / AP 2.0 8V — variantes carburadas e injetadas**. Faixas de potência e torque conforme alimentação; menção a recordes aspirados e turbo no AP.  
+- **`ap-santana-glsi-ficha`** — 🟡 Ficha comercial. Cruza potência/torque injetado AP 2.0 (112 cv / 17,5 kgfm).  
+  Fonte: https://www.fichacompleta.com.br/carros/volkswagen/santana-glsi-2-0-1992-gasolina
+- **`ap-wikipedia-pt`** — 📚 Literatura secundária. Arquitetura, cilindradas e contexto histórico do AP.  
+  Fonte: https://pt.wikipedia.org/wiki/Volkswagen_AP
+- **`ap-bremei-vw`** — ⚠️ Site compilado. Faixa 109–121 cv por tipo de alimentação; 82,5×92,8 mm.  
+  Fonte: https://bremeistreetcar.webnode.page/curiosidades/vw/
+- **`ap-mecawiki-ea827`** — ⚠️ Wiki colaborativa. Recordes aspirados citados; variantes CR. Confirmar antes de usar como spec.  
   Fonte: https://mecawiki.fandom.com/pt-br/wiki/Volkswagen_EA-827
-- **Medidas de montagem e torques — motores AP**. Dados de cilindrada, folgas, compressão e ordem de explosão 1-3-4-2.  
+- **`ap-pdfcoffee-torques`** — ⚠️ PDF espelhado. Ordem 1-3-4-2; folgas; compressão de referência.  
   Fonte: https://pdfcoffee.com/medidas-de-montagens-e-torques-de-aperto-dos-motores-ap-pdf-free.html
-- **FuelTech FT450**. ECU programável usada no Projeto Marcelo; base de acerto aspirado e evolução turbo.  
+- **`ap-coffeemotors-guia`** — 🟡 Blog especializado. Contexto de preparação AP no Brasil.  
+  Fonte: https://coffeemotors.com.br/motor-ap-guia-completo/
+- **`fueltech-ft450-produto`** — 🔬 Fabricante oficial. ECU do Projeto Marcelo; base aspirado → turbo.  
   Fonte: https://www.fueltech.com.br/produtos/ft450
+- **`garrett-engine-basics`** — 🔬 Literatura técnica Garrett. Conceitos de fluxo, eficiência e massa de ar.  
+  Fonte: https://www.garrettmotion.com/knowledge-center-category/oem/expert/
+- **`projeto-marcelo-dyno`** — 📁 Dado medido do manual. ~100 cv roda / ~15 kgfm aspirado.  
+  Fonte: [Cap. 13 — Projeto Marcelo](../volume-1/13-projeto-marcelo-ap-20.md)

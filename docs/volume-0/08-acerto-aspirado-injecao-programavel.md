@@ -178,7 +178,15 @@ Meta: mapa aspirado estável é **linha de base**, não fim do jogo.
 
 ## Referências usadas neste capítulo
 
-- **FuelTech FT450**. Funcionalidades de injeção, ignição, flex fuel e datalogger.  
+Índice completo: [Referências — Volume 0](../apendices/referencias.md#volume-0--preparacao-aspirada)
+
+- **`fueltech-ft450-produto`** — 🔬 Fabricante. Injeção sequencial, ignição, flex fuel, datalogger.  
   Fonte: https://www.fueltech.com.br/produtos/ft450
-- **Capítulo 10 — Combustível, AFR e ignição (Volume I)**. Lambda, detonação e margem térmica.  
-  Fonte: manual interno `/volume-1/10-combustivel-afr-ignicao`
+- **`fueltech-manuais-pt`** — 🔬 Manual oficial FT450 v2.9. Mapas, sensores, procedimentos de acerto.  
+  Fonte: https://www.fueltech.com.br/pages/manuais-portugues
+- **`fueltech-software-ftmanager`** — 🔬 Software oficial. Importação de mapa, logs, firmware.  
+  Fonte: https://www.fueltech.com.br/pages/software
+- **`manual-vol1-afr`** — 📁 Manual interno. Lambda, detonação, margem térmica (Cap. 10).  
+  Fonte: [Cap. 10 — Combustível, AFR e ignição](../volume-1/10-combustivel-afr-ignicao.md)
+- **`garrett-engine-basics`** — 🔬 Relação massa de ar, combustível e potência útil.  
+  Fonte: https://www.garrettmotion.com/knowledge-center-category/oem/expert/

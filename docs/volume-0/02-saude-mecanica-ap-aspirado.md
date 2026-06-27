@@ -60,7 +60,9 @@ No AP 8V, ordem de explosão **1-3-4-2**. Ponto estático típico varia conforme
 | Arrefecimento | Termostato, bomba, ventoinha | Superaquecimento em trânsito |
 | Ignição | Cabos, bobina, velas, distribuidor | Falha, consumo alto |
 
-📚 **Folgas típicas AP (referência de oficina)**: admissão ~0,15–0,25 mm; escape ~0,35–0,45 mm — sempre confirmar na ficha do motor específico.
+📚 **Folgas típicas AP (referência de oficina)** — `ap-pdfcoffee-torques` ⚠️: admissão ~0,15–0,25 mm; escape ~0,35–0,45 mm. **Sempre confirmar** na ficha do motor específico ou manual de oficina VW.
+
+> ⚠️ **Fonte de confiabilidade limitada**: PDF espelhado em PDFCoffee. Validar folga com calibre e spec do preparador antes de rodar.
 
 ## 🟧 Entusiasta: o porquê
 
@@ -160,7 +162,15 @@ O forjado protege contra detonação e carga — não substitui válvula queimad
 
 ## Referências usadas neste capítulo
 
-- **Medidas de montagem e torques — motores AP**. Folgas de válvula, compressão, ordem 1-3-4-2.  
+Índice completo: [Referências — Volume 0](../apendices/referencias.md#volume-0--preparacao-aspirada)
+
+- **`ap-pdfcoffee-torques`** — ⚠️ PDF espelhado. Folgas admissão ~0,15–0,25 mm; escape ~0,35–0,45 mm; ordem 1-3-4-2.  
   Fonte: https://pdfcoffee.com/medidas-de-montagens-e-torques-de-aperto-dos-motores-ap-pdf-free.html
-- **Volkswagen EA-827 / AP 2.0**. Dados de cilindrada, taxa de compressão e variantes.  
+- **`ap-wikipedia-pt`** — 📚 Literatura secundária. Arquitetura bloco/cabeçote; ordem de uso no Brasil.  
+  Fonte: https://pt.wikipedia.org/wiki/Volkswagen_AP
+- **`ap-gol-2000-ficha`** — 🟡 Ficha comercial. Referência de potência/torque de série para baseline saudável.  
+  Fonte: https://www.fichacompleta.com.br/carros/volkswagen/gol-2-0-2000
+- **`ap-mecawiki-ea827`** — ⚠️ Wiki. Variantes e compressão; confirmar com medição real.  
   Fonte: https://mecawiki.fandom.com/pt-br/wiki/Volkswagen_EA-827
+- **`sae-j1349`** — 📚 Norma SAE. Metodologia de declaração/correção de potência (contexto dyno).  
+  Fonte: https://www.sae.org/standards/content/j1349_201408/

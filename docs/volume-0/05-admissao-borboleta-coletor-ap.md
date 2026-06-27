@@ -160,7 +160,15 @@ Para turbo futuro, TB 60 mm costuma ser ponto de partida honesto em AP 2.0 moder
 
 ## Referências usadas neste capítulo
 
-- **FuelTech FT450**. Acerto de borboleta, MAP e transição em injeção programável.  
+Índice completo: [Referências — Volume 0](../apendices/referencias.md#volume-0--preparacao-aspirada)
+
+- **`fueltech-ft450-produto`** — 🔬 Fabricante. MAP, TPS, acerto de transição e borboleta.  
   Fonte: https://www.fueltech.com.br/produtos/ft450
-- **Conceitos de ressonância de coletor de admissão**. Literatura clássica de preparação (Helmholtz/ram tuning).  
+- **`fueltech-manuais-pt`** — 🔬 Manual oficial FT450/FT550 v2.9. Tabelas de injeção e ignição.  
+  Fonte: https://www.fueltech.com.br/pages/manuais-portugues
+- **`garrett-engine-basics`** — 🔬 Ressonância, fluxo de admissão, relação pressão/massa de ar.  
   Fonte: https://www.garrettmotion.com/knowledge-center-category/oem/expert/
+- **`ap-coffeemotors-guia`** — 🟡 Blog. Contexto de upgrades de admissão no AP brasileiro.  
+  Fonte: https://coffeemotors.com.br/motor-ap-guia-completo/
+- **`ap-wikipedia-pt`** — 📚 Arquitetura admissão OHC 8V; coletor original de série.  
+  Fonte: https://pt.wikipedia.org/wiki/Volkswagen_AP

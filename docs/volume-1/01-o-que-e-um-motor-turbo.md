@@ -87,9 +87,15 @@ Para o Gol AP 2.0 com meta inicial de 300 cv, o foco deve ser densidade de ar co
 
 ## Referências usadas neste capítulo
 
-- **Garrett: Compressor Maps**. Explica que o mapa de compressor descreve eficiência, faixa de fluxo de massa, capacidade de pressão e velocidade.  
+Índice completo: [Referências — Volume I](../apendices/referencias.md#volume-i--turbo-e-sistema-de-admissao-pressurizada)
+
+- **`garrett-compressor-maps`** — 🔬 Fabricante oficial. Mapa de compressor, eficiência, fluxo de massa.  
   Fonte: https://www.garrettmotion.com/knowledge-center-category/oem/expert/
-- **Garrett G25-550 48mm**. HP 300-550, 1.4L-3.0L, compressor 48x60 mm, eficiência máxima 80%, velocidade máxima 185 krpm, Mar-M turbine wheel, dados e mapas no site oficial.  
+- **`garrett-engine-basics`** — 🔬 Fabricante oficial. Conversão energia escape → massa de ar admissão.  
+  Fonte: https://www.garrettmotion.com/knowledge-center-category/oem/expert/
+- **`garrett-g25-550`** — 🔬 Fabricante oficial. Faixa HP **declarada** 300–550; rotor 48×60 mm; mapa oficial.  
   Fonte: https://www.garrettmotion.com/racing-and-performance/performance-catalog/turbo/g-series-g25-550/
-- **BorgWarner EFR 6258-A/G PDF**. 225-450 HP, compressor 49x62 mm, turbina 51x58 mm, Gamma-Ti, dual ceramic ball bearing, FMW, compressor map oficial.  
+- **`borgwarner-efr-6258`** — 🔬 Fabricante oficial. Faixa HP **declarada** 225–450; mapa compressor PDF.  
   Fonte: https://www.borgwarner.com/docs/default-source/iam/boosting-technologies/efr-6258-a.pdf?sfvrsn=595bb03c_17
+
+> ⚠️ Faixas HP de catálogo **não** são potência de roda medida no AP. Resultado real depende de coletor, pressão, IAT, combustível e acerto.

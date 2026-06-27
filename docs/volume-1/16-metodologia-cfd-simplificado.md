@@ -75,3 +75,16 @@ Estamos criando **mapas conceituais de perda de energia**. Eles mostram regiões
 ## O que você deve lembrar
 
 > Diagrama conceitual ensina direção. CFD real mede consequência.
+
+## Referências usadas neste capítulo
+
+Índice completo: [Referências — Volume I](../apendices/referencias.md#volume-i--turbo-e-sistema-de-admissao-pressurizada)
+
+- **`manual-vol1-cfd`** — 📁 Manual interno. Metodologia de diagramas didáticos deste repositório.  
+  Fonte: [Cap. 16 — Metodologia CFD simplificado](16-metodologia-cfd-simplificado.md)
+- **`garrett-compressor-maps`** — 🔬 Fabricante oficial. Referência do que é mapa **real** vs diagrama didático.  
+  Fonte: https://www.garrettmotion.com/knowledge-center-category/oem/expert/
+- **`garrett-engine-basics`** — 🔬 Fabricante oficial. Conceitos de fluxo usados nos diagramas conceituais.  
+  Fonte: https://www.garrettmotion.com/knowledge-center-category/oem/expert/
+
+> Os SVG/Mermaid deste manual **não** são resultado de solver CFD. Nunca tratar como simulação numérica validada.

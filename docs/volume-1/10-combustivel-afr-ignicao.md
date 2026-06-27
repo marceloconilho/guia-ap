@@ -80,6 +80,17 @@ Para seu AP no etanol, vale dimensionar bicos e bomba com margem para 400 cv. O 
 
 > Acerto seguro não é aquele que faz pico alto: é aquele que repete potência sem virar loteria térmica.
 
+## Referências usadas neste capítulo
 
+Índice completo: [Referências — Volume I](../apendices/referencias.md#volume-i--turbo-e-sistema-de-admissao-pressurizada)
 
-
+- **`fueltech-ft450-produto`** — 🔬 Fabricante oficial. Injeção, ignição, flex fuel e datalogger — Projeto Marcelo.  
+  Fonte: https://www.fueltech.com.br/produtos/ft450
+- **`fueltech-manuais-pt`** — 🔬 Manual oficial FT450 v2.9. Tabelas de AFR, ignição e sensores.  
+  Fonte: https://www.fueltech.com.br/pages/manuais-portugues
+- **`fueltech-software-ftmanager`** — 🔬 Software oficial. Mapa, logs e validação de acerto turbo.  
+  Fonte: https://www.fueltech.com.br/pages/software
+- **`garrett-engine-basics`** — 🔬 Fabricante oficial. Relação temperatura de admissão, detonação e potência útil.  
+  Fonte: https://www.garrettmotion.com/knowledge-center-category/oem/expert/
+- **`manual-vol1-afr`** — 📁 Manual interno. Definições canônicas de lambda e margem térmica neste guia.  
+  Fonte: [Cap. 10 — Combustível, AFR e ignição](10-combustivel-afr-ignicao.md)

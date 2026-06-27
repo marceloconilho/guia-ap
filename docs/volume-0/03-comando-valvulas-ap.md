@@ -152,7 +152,15 @@ Se cabeçote for retrabalhado, revalidar folga — válvula assentada muda rela�
 
 ## Referências usadas neste capítulo
 
-- **Medidas de montagem e torques — motores AP**. Folgas de válvula admissão/escape.  
+Índice completo: [Referências — Volume 0](../apendices/referencias.md#volume-0--preparacao-aspirada)
+
+- **`ap-pdfcoffee-torques`** — ⚠️ PDF espelhado. Folgas de válvula e sincronismo pós-troca de comando.  
   Fonte: https://pdfcoffee.com/medidas-de-montagens-e-torques-de-aperto-dos-motores-ap-pdf-free.html
-- **Conceitos de duração, overlap e LSA**. Literatura clássica de preparação de motores OHV/OHC.  
-  Fonte: https://www.garrettmotion.com/news/newsroom/article/turbo-tech-how-to-turbo-and-the-difference-an-a-r-makes-for-optimizing-your-turbo-system/ (conceitos gerais de sincronismo e resposta)
+- **`garrett-engine-basics`** — 🔬 Literatura Garrett. Fluxo, sincronismo admissão/escape, eficiência.  
+  Fonte: https://www.garrettmotion.com/knowledge-center-category/oem/expert/
+- **`garrett-ar-article`** — 🔬 Artigo Garrett. Relação escape/admissão, resposta e restrição.  
+  Fonte: https://www.garrettmotion.com/news/newsroom/article/turbo-tech-how-to-turbo-and-the-difference-an-a-r-makes-for-optimizing-your-turbo-system/
+- **`ap-wikipedia-pt`** — 📚 Arquitetura OHC 8V AP; comando no cabeçote por correia dentada.  
+  Fonte: https://pt.wikipedia.org/wiki/Volkswagen_AP
+
+> ⚠️ **Comandos 49G, 44i, SP**: perfis citados neste capítulo vêm de 🔧 prática de mercado brasileiro. Não há ficha dinamométrica pública padronizada registrada neste repositório. Confirmar lift/duração/LSA com o fabricante antes da compra.

@@ -68,7 +68,9 @@ Duto estreito demais acelera ar — pode ajudar baixa em certos designs. Duto la
 
 Volume de câmara define taxa de compressão com pistão e junta. Rebaixar cabeçote reduz câmara → sobe compressão. Sem medir, um cilindro pode ficar perigosamente acima do limite do combustível/acerto.
 
-🔬 **AP 2.0 original**: taxa em torno de **9:1** (carburado) a **10:1** (injetado) conforme versão.
+🔬 **AP 2.0 original**: taxa em torno de **9:1** (carburado) a **10:1** (injetado) — cruzado em `ap-mecawiki-ea827` ⚠️ e `ap-bremei-vw` ⚠️.
+
+> ⚠️ **Fonte de confiabilidade limitada**: wikis e sites compilados. Medir câmara por cilindro após retífica antes de confiar no número.
 
 ### Para turbo futuro
 
@@ -152,7 +154,15 @@ Borboleta 60 mm guardada só brilha quando cabeçote e coletor permitirem.
 
 ## Referências usadas neste capítulo
 
-- **Medidas de montagem e torques — motores AP**. Altura mínima cabeçote, folgas, compressão.  
+Índice completo: [Referências — Volume 0](../apendices/referencias.md#volume-0--preparacao-aspirada)
+
+- **`ap-pdfcoffee-torques`** — ⚠️ PDF espelhado. Altura mínima cabeçote; torque de aperto; folgas.  
   Fonte: https://pdfcoffee.com/medidas-de-montagens-e-torques-de-aperto-dos-motores-ap-pdf-free.html
-- **Volkswagen EA-827 / AP 2.0**. Taxas de compressão por versão.  
+- **`ap-mecawiki-ea827`** — ⚠️ Wiki. Taxas de compressão 9:1 (carburado) e 10:1 (injetado).  
   Fonte: https://mecawiki.fandom.com/pt-br/wiki/Volkswagen_EA-827
+- **`ap-bremei-vw`** — ⚠️ Site compilado. Cruza CR e medidas 82,5×92,8 mm por versão.  
+  Fonte: https://bremeistreetcar.webnode.page/curiosidades/vw/
+- **`ap-gol-2000-ficha`** — 🟡 Ficha comercial. Contexto motor AP-2000 injetado.  
+  Fonte: https://www.fichacompleta.com.br/carros/volkswagen/gol-2-0-2000
+- **`garrett-engine-basics`** — 🔬 Conceitos de fluxo, garganta, coeficiente de fluxo.  
+  Fonte: https://www.garrettmotion.com/knowledge-center-category/oem/expert/

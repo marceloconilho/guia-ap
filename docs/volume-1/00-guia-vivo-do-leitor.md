@@ -22,11 +22,15 @@ Este manual foi desenhado para quatro públicos ao mesmo tempo. A proposta é qu
 
 | Selo | Significado |
 |---|---|
-| 🔬 Medido | Dado de fabricante, bancada, dinamômetro ou sensor |
-| 📚 Literatura | Conceito aceito em engenharia, manual técnico ou artigo |
+| 🔬 Medido / Alta | Dado de fabricante, bancada, dinamômetro ou sensor |
+| 📚 Literatura / Média | Conceito aceito em engenharia, manual técnico ou artigo |
+| 🟡 Comercial | Ficha de loja, revenda ou blog especializado |
+| ⚠️ Baixa / warning | Wiki, PDF espelhado, site pessoal — exige aviso explícito no capítulo |
+| 📁 Interna | Dado do Projeto Marcelo ou do próprio manual |
 | 🔧 Prática | Consenso de oficina ou experiência recorrente |
 | 💡 Hipótese fundamentada | Inferência técnica quando não há dado público |
-| ⚠️ Controverso | Depende muito do conjunto ou ainda falta dado confiável |
+
+Consulte o [índice de referências](../apendices/referencias.md) para ver **todas as fontes**, URLs e classificação de confiabilidade — especialmente no [Volume 0 — preparação aspirada](../apendices/referencias.md#volume-0--preparacao-aspirada).
 
 ## Estrutura fixa dos capítulos
 

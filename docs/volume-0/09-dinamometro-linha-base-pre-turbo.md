@@ -193,7 +193,15 @@ Regra prática 💡: quando aspirado está **repetível, saudável e mapeado**, 
 
 ## Referências usadas neste capítulo
 
-- **Projeto Marcelo — Capítulo 1 e 13**. Dados medidos ~100 cv roda / 15 kgfm.  
-  Fonte: manual interno `/volume-0/01-preparacao-aspirada-ap`, `/volume-1/13-projeto-marcelo-ap-20`
-- **FuelTech FT450 — datalogger**. Gravação de sensores para validação.  
+Índice completo: [Referências — Volume 0](../apendices/referencias.md#volume-0--preparacao-aspirada)
+
+- **`projeto-marcelo-dyno`** — 📁 Dado medido. ~100 cv roda / ~15 kgfm — baseline aspirado documentado.  
+  Fonte: [Cap. 13 — Projeto Marcelo](../volume-1/13-projeto-marcelo-ap-20.md)
+- **`sae-j1349`** — 📚 Norma SAE. Correção e declaração de potência em dinamômetro.  
+  Fonte: https://www.sae.org/standards/content/j1349_201408/
+- **`fueltech-software-ftmanager`** — 🔬 Exportação e análise de logs ECU.  
+  Fonte: https://www.fueltech.com.br/pages/software
+- **`fueltech-ft450-produto`** — 🔬 Datalogger interno da FT450.  
   Fonte: https://www.fueltech.com.br/produtos/ft450
+- **`ap-gol-2000-ficha`** — 🟡 Referência potência/torque de série para comparar ganho real.  
+  Fonte: https://www.fichacompleta.com.br/carros/volkswagen/gol-2-0-2000

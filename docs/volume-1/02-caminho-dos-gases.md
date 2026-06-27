@@ -87,7 +87,13 @@ No seu AP, se escolher A50-2.48P, faz sentido casar com coletor pulsativo de ver
 
 ## Referências usadas neste capítulo
 
-- **Auto Avionics A50-2.48P**. A/R fria .50, rotor frio 51x71, A/R quente .48, rotor quente 49,4x58, pulsativa.  
-  Fonte: https://autoavionics.com.br/produto/a50-2-48p/
-- **Garrett: diferença que o A/R faz**. Explica o impacto do A/R na resposta e apresenta comparação em dinamômetro.  
+Índice completo: [Referências — Volume I](../apendices/referencias.md#volume-i--turbo-e-sistema-de-admissao-pressurizada)
+
+- **`garrett-ar-article`** — 🔬 Fabricante oficial. Pulsos de escape, A/R e resposta do sistema.  
   Fonte: https://www.garrettmotion.com/news/newsroom/article/turbo-tech-how-to-turbo-and-the-difference-an-a-r-makes-for-optimizing-your-turbo-system/
+- **`autoavionics-a50-248p`** — 🟡 Ficha comercial. Turbina pulsativa A/R .48; requer coletor com separação real.  
+  Fonte: https://autoavionics.com.br/produto/a50-2-48p/
+- **`ap-pdfcoffee-torques`** — ⚠️ PDF espelhado. Ordem de explosão AP 1-3-4-2 para pareamento de pulsos.  
+  Fonte: https://pdfcoffee.com/medidas-de-montagens-e-torques-de-aperto-dos-motores-ap-pdf-free.html
+
+> ⚠️ **Fonte de confiabilidade limitada**: `ap-pdfcoffee-torques`. Confirmar ordem 1-3-4-2 em manual de oficina antes de projetar coletor.

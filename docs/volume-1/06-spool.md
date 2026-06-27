@@ -84,9 +84,13 @@ Seu AP aspirado atual tem pouco torque em baixa comparado ao futuro turbo. Uma t
 
 ## Referências usadas neste capítulo
 
-- **Garrett G25-550 48mm**. HP 300-550, 1.4L-3.0L, compressor 48x60 mm, eficiência máxima 80%, velocidade máxima 185 krpm, Mar-M turbine wheel, dados e mapas no site oficial.  
+Índice completo: [Referências — Volume I](../apendices/referencias.md#volume-i--turbo-e-sistema-de-admissao-pressurizada)
+
+- **`garrett-g25-550`** — 🔬 Fabricante oficial. Faixa HP declarada; mapa para estimar spool e ponto de operação.  
   Fonte: https://www.garrettmotion.com/racing-and-performance/performance-catalog/turbo/g-series-g25-550/
-- **Garrett G25-660 54mm**. HP 350-660, 1.4L-3.0L, compressor map e exhaust flow chart disponíveis no site oficial.  
+- **`garrett-g25-660`** — 🔬 Fabricante oficial. Comparativo spool vs capacidade de topo.  
   Fonte: https://www.garrettmotion.com/racing-and-performance/performance-catalog/turbo/g-series-g25-660/
-- **BorgWarner EFR 6258-A/G PDF**. 225-450 HP, compressor 49x62 mm, turbina 51x58 mm, Gamma-Ti, dual ceramic ball bearing, FMW, compressor map oficial.  
+- **`borgwarner-efr-6258`** — 🔬 Fabricante oficial. Resposta e faixa HP declarada EFR.  
   Fonte: https://www.borgwarner.com/docs/default-source/iam/boosting-technologies/efr-6258-a.pdf?sfvrsn=595bb03c_17
+- **`garrett-ar-article`** — 🔬 Fabricante oficial. Relação A/R e threshold de resposta.  
+  Fonte: https://www.garrettmotion.com/news/newsroom/article/turbo-tech-how-to-turbo-and-the-difference-an-a-r-makes-for-optimizing-your-turbo-system/

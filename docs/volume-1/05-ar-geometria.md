@@ -84,9 +84,13 @@ Para a A50-2.48P no seu AP, .48 pulsativa parece mais equilibrada que .36 mono s
 
 ## Referências usadas neste capítulo
 
-- **Garrett: diferença que o A/R faz**. Explica o impacto do A/R na resposta e apresenta comparação em dinamômetro.  
+Índice completo: [Referências — Volume I](../apendices/referencias.md#volume-i--turbo-e-sistema-de-admissao-pressurizada)
+
+- **`garrett-ar-article`** — 🔬 Fabricante oficial. Impacto do A/R na resposta; comparação em dinamômetro.  
   Fonte: https://www.garrettmotion.com/news/newsroom/article/turbo-tech-how-to-turbo-and-the-difference-an-a-r-makes-for-optimizing-your-turbo-system/
-- **Auto Avionics A50-2.36M**. A/R fria .50, rotor frio 51x71, A/R quente .36, rotor quente 49,4x58, monofluxo.  
+- **`autoavionics-a50-236m`** — 🟡 Ficha comercial. A/R .36 monofluxo; medidas de rotor — confirmar com fabricante.  
   Fonte: https://autoavionics.com.br/produto/a50-2-36m/
-- **Auto Avionics A50-2.48P**. A/R fria .50, rotor frio 51x71, A/R quente .48, rotor quente 49,4x58, pulsativa.  
+- **`autoavionics-a50-248p`** — 🟡 Ficha comercial. A/R .48 pulsativa; referência Projeto Marcelo.  
   Fonte: https://autoavionics.com.br/produto/a50-2-48p/
+
+> ⚠️ **Fonte de confiabilidade limitada**: fichas 🟡 Auto Avionics via lojas/revendas. Medidas de A/R e rotor devem ser confirmadas na ficha oficial do fabricante antes da compra.

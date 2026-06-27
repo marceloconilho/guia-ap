@@ -101,13 +101,17 @@ Os mapas reais ficam referenciados no apêndice `apendices/mapas-de-compressor.m
 
 ## Referências usadas neste capítulo
 
-- **Garrett: Compressor Maps**. Explica que o mapa de compressor descreve eficiência, faixa de fluxo de massa, capacidade de pressão e velocidade.  
+Índice completo: [Referências — Volume I](../apendices/referencias.md#volume-i--turbo-e-sistema-de-admissao-pressurizada)
+
+- **`garrett-compressor-maps`** — 🔬 Fabricante oficial. Eficiência, surge, choke, fluxo de massa no mapa.  
   Fonte: https://www.garrettmotion.com/knowledge-center-category/oem/expert/
-- **Master Power R4449-2 ficha comercial**. Rotor compressor 44,05x63 mm, rotor turbina 49,5x61,5 mm, carcaça turbina monofluxo A/R .48, faixa 145-360 hp.  
-  Fonte: https://www.regisracing.com.br/turbinas/master-power-turbo-r4449-2-145-360-hp-44-05-x-49-5
-- **Auto Avionics A50-2.48P**. A/R fria .50, rotor frio 51x71, A/R quente .48, rotor quente 49,4x58, pulsativa.  
-  Fonte: https://autoavionics.com.br/produto/a50-2-48p/
-- **Garrett G25-550 48mm**. HP 300-550, 1.4L-3.0L, compressor 48x60 mm, eficiência máxima 80%, velocidade máxima 185 krpm, Mar-M turbine wheel, dados e mapas no site oficial.  
+- **`garrett-g25-550`** — 🔬 Fabricante oficial. Mapa e faixa HP declarada; exemplo de leitura de ponto de operação.  
   Fonte: https://www.garrettmotion.com/racing-and-performance/performance-catalog/turbo/g-series-g25-550/
-- **BorgWarner EFR 6258-A/G PDF**. 225-450 HP, compressor 49x62 mm, turbina 51x58 mm, Gamma-Ti, dual ceramic ball bearing, FMW, compressor map oficial.  
+- **`borgwarner-efr-6258`** — 🔬 Fabricante oficial. Mapa compressor PDF oficial EFR 6258.  
   Fonte: https://www.borgwarner.com/docs/default-source/iam/boosting-technologies/efr-6258-a.pdf?sfvrsn=595bb03c_17
+- **`autoavionics-a50-248p`** — 🟡 Ficha comercial. Medidas de rotor; comparar com mapa antes de escolher.  
+  Fonte: https://autoavionics.com.br/produto/a50-2-48p/
+- **`masterpower-r4449-regis`** — 🟡 Ficha comercial revenda. Faixa 145–360 hp **declarada**; confirmar mapa com fabricante.  
+  Fonte: https://www.regisracing.com.br/turbinas/master-power-turbo-r4449-2-145-360-hp-44-05-x-49-5
+
+> ⚠️ **Fonte de confiabilidade limitada**: fichas 🟡 de revenda. Faixa HP não substitui mapa de compressor nem medição no AP.

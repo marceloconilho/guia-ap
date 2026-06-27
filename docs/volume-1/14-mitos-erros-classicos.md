@@ -84,7 +84,11 @@ No seu projeto, os mitos perigosos são: 'câmbio original aguenta tranquilo', '
 
 ## Referências usadas neste capítulo
 
-- **Garrett: diferença que o A/R faz**. Explica o impacto do A/R na resposta e apresenta comparação em dinamômetro.  
+Índice completo: [Referências — Volume I](../apendices/referencias.md#volume-i--turbo-e-sistema-de-admissao-pressurizada)
+
+- **`garrett-ar-article`** — 🔬 Fabricante oficial. Mitos de A/R, resposta e backpressure.  
   Fonte: https://www.garrettmotion.com/news/newsroom/article/turbo-tech-how-to-turbo-and-the-difference-an-a-r-makes-for-optimizing-your-turbo-system/
-- **Garrett: Compressor Maps**. Explica que o mapa de compressor descreve eficiência, faixa de fluxo de massa, capacidade de pressão e velocidade.  
+- **`garrett-compressor-maps`** — 🔬 Fabricante oficial. Mitos de mapa, surge, eficiência e choke.  
   Fonte: https://www.garrettmotion.com/knowledge-center-category/oem/expert/
+- **`manual-vol1-backpressure`** — 📁 Manual interno. Conceito canônico de backpressure vs aspirado.  
+  Fonte: [Cap. 7 — Backpressure](07-backpressure.md)

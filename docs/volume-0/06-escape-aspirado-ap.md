@@ -145,7 +145,15 @@ Escape aspirado bem feito ainda vale para fase atual de rua/track NA.
 
 ## Referências usadas neste capítulo
 
-- **Capítulo 7 — Backpressure (Volume I)**. Conceito de pressão contrária e diferença pré/pós turbina.  
-  Fonte: manual interno `/volume-1/07-backpressure`
-- **Medidas de montagem — motores AP**. Ordem de explosão e geometria de coletor original.  
+Índice completo: [Referências — Volume 0](../apendices/referencias.md#volume-0--preparacao-aspirada)
+
+- **`manual-vol1-backpressure`** — 📁 Manual interno. Backpressure aspirado vs pré-turbina (Cap. 7).  
+  Fonte: [Cap. 7 — Backpressure](../volume-1/07-backpressure.md)
+- **`garrett-ar-article`** — 🔬 Artigo Garrett. Restrição no escape e resposta do sistema.  
+  Fonte: https://www.garrettmotion.com/news/newsroom/article/turbo-tech-how-to-turbo-and-the-difference-an-a-r-makes-for-optimizing-your-turbo-system/
+- **`garrett-engine-basics`** — 🔬 Fluxo e perda de carga no escape.  
+  Fonte: https://www.garrettmotion.com/knowledge-center-category/oem/expert/
+- **`ap-pdfcoffee-torques`** — ⚠️ PDF espelhado. Ordem de explosão 1-3-4-2; geometria coletor original.  
   Fonte: https://pdfcoffee.com/medidas-de-montagens-e-torques-de-aperto-dos-motores-ap-pdf-free.html
+- **`ap-coffeemotors-guia`** — 🟡 Blog. Upgrade clássico escape 2" em AP preparado.  
+  Fonte: https://coffeemotors.com.br/motor-ap-guia-completo/

@@ -87,9 +87,13 @@ No seu uso misto, .48 pulsativa tende a ser o ponto feliz: resposta boa sem estr
 
 ## Referências usadas neste capítulo
 
-- **Garrett: diferença que o A/R faz**. Explica o impacto do A/R na resposta e apresenta comparação em dinamômetro.  
+Índice completo: [Referências — Volume I](../apendices/referencias.md#volume-i--turbo-e-sistema-de-admissao-pressurizada)
+
+- **`garrett-ar-article`** — 🔬 Fabricante oficial. Energia térmica no escape; A/R e resposta da turbina.  
   Fonte: https://www.garrettmotion.com/news/newsroom/article/turbo-tech-how-to-turbo-and-the-difference-an-a-r-makes-for-optimizing-your-turbo-system/
-- **Garrett G25-550 48mm**. HP 300-550, 1.4L-3.0L, compressor 48x60 mm, eficiência máxima 80%, velocidade máxima 185 krpm, Mar-M turbine wheel, dados e mapas no site oficial.  
+- **`garrett-g25-550`** — 🔬 Fabricante oficial. Rotor quente Mar-M; faixa HP declarada; dados oficiais lado quente.  
   Fonte: https://www.garrettmotion.com/racing-and-performance/performance-catalog/turbo/g-series-g25-550/
-- **Garrett G25-660 54mm**. HP 350-660, 1.4L-3.0L, compressor map e exhaust flow chart disponíveis no site oficial.  
+- **`garrett-g25-660`** — 🔬 Fabricante oficial. Exhaust flow chart; rotor turbina.  
   Fonte: https://www.garrettmotion.com/racing-and-performance/performance-catalog/turbo/g-series-g25-660/
+- **`garrett-engine-basics`** — 🔬 Fabricante oficial. Temperatura e pressão pré-turbina.  
+  Fonte: https://www.garrettmotion.com/knowledge-center-category/oem/expert/

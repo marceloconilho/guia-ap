@@ -84,5 +84,11 @@ No seu Gol, intercooler deve ser comprado pensando em 400 cv, mesmo que rode com
 
 ## Referências usadas neste capítulo
 
-- **Garrett G25-550 48mm**. HP 300-550, 1.4L-3.0L, compressor 48x60 mm, eficiência máxima 80%, velocidade máxima 185 krpm, Mar-M turbine wheel, dados e mapas no site oficial.  
+Índice completo: [Referências — Volume I](../apendices/referencias.md#volume-i--turbo-e-sistema-de-admissao-pressurizada)
+
+- **`garrett-g25-550`** — 🔬 Fabricante oficial. Eficiência máxima declarada 80%; limite térmico do compressor.  
   Fonte: https://www.garrettmotion.com/racing-and-performance/performance-catalog/turbo/g-series-g25-550/
+- **`garrett-engine-basics`** — 🔬 Fabricante oficial. Temperatura de admissão, densidade e eficiência do sistema.  
+  Fonte: https://www.garrettmotion.com/knowledge-center-category/oem/expert/
+- **`garrett-compressor-maps`** — 🔬 Fabricante oficial. Relação eficiência do compressor e calor na admissão.  
+  Fonte: https://www.garrettmotion.com/knowledge-center-category/oem/expert/

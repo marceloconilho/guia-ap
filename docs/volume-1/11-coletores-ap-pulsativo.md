@@ -87,7 +87,13 @@ Para seu AP, eu dividiria em três caminhos: custo/robustez = SPA pulsativo + A5
 
 ## Referências usadas neste capítulo
 
-- **Auto Avionics A50-2.48P**. A/R fria .50, rotor frio 51x71, A/R quente .48, rotor quente 49,4x58, pulsativa.  
+Índice completo: [Referências — Volume I](../apendices/referencias.md#volume-i--turbo-e-sistema-de-admissao-pressurizada)
+
+- **`autoavionics-a50-248p`** — 🟡 Ficha comercial. Turbina pulsativa; exige coletor com separação real de fluxos.  
   Fonte: https://autoavionics.com.br/produto/a50-2-48p/
-- **Garrett: diferença que o A/R faz**. Explica o impacto do A/R na resposta e apresenta comparação em dinamômetro.  
+- **`garrett-ar-article`** — 🔬 Fabricante oficial. Twin scroll / pulsativo vs monofluxo.  
   Fonte: https://www.garrettmotion.com/news/newsroom/article/turbo-tech-how-to-turbo-and-the-difference-an-a-r-makes-for-optimizing-your-turbo-system/
+- **`ap-pdfcoffee-torques`** — ⚠️ PDF espelhado. Ordem 1-3-4-2 para pareamento de cilindros no AP.  
+  Fonte: https://pdfcoffee.com/medidas-de-montagens-e-torques-de-aperto-dos-motores-ap-pdf-free.html
+
+> ⚠️ **Fonte de confiabilidade limitada**: `ap-pdfcoffee-torques`. Validar ordem de explosão antes de soldar coletor pulsativo.

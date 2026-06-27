@@ -151,7 +151,15 @@ AP **2.0 forjado** com ~100 cv roda aspirado: decisão correta para meta 300 cv 
 
 ## Referências usadas neste capítulo
 
-- **Volkswagen EA-827 / AP 2.0**. Taxa de compressão, diâmetro 82,5 mm, curso 92,8 mm, bielas ~144 mm.  
+Índice completo: [Referências — Volume 0](../apendices/referencias.md#volume-0--preparacao-aspirada)
+
+- **`ap-wikipedia-pt`** — 📚 Bielas ~144 mm (AP 8V); bloco ferro fundido.  
+  Fonte: https://pt.wikipedia.org/wiki/Volkswagen_AP
+- **`ap-bremei-vw`** — ⚠️ Site compilado. Diâmetro 82,5 mm; curso 92,8 mm; CR por versão.  
+  Fonte: https://bremeistreetcar.webnode.page/curiosidades/vw/
+- **`ap-mecawiki-ea827`** — ⚠️ Wiki. Variantes pistão/compressão; confirmar com medição.  
   Fonte: https://mecawiki.fandom.com/pt-br/wiki/Volkswagen_EA-827
-- **Medidas de montagem — motores AP**. Folgas, compressão, torque cabeçote.  
+- **`ap-pdfcoffee-torques`** — ⚠️ PDF espelhado. Torque cabeçote; folgas; sequência de montagem.  
   Fonte: https://pdfcoffee.com/medidas-de-montagens-e-torques-de-aperto-dos-motores-ap-pdf-free.html
+- **`ap-gol-2000-ficha`** — 🟡 Contexto motor AP-2000 injetado 10:1 de série.  
+  Fonte: https://www.fichacompleta.com.br/carros/volkswagen/gol-2-0-2000
