@@ -1,0 +1,68 @@
+[
+  {
+    "modelo": "Master Power R4449-2",
+    "tipo": "journal bearing / nacional / monofluxo",
+    "compressor_mm": "44,05 x 63",
+    "turbina_mm": "49,5 x 61,5",
+    "ar_quente": ".48",
+    "carcaca": "T3 monofluxo",
+    "faixa_hp_publicada": "145-360 hp",
+    "fonte": "https://www.regisracing.com.br/turbinas/master-power-turbo-r4449-2-145-360-hp-44-05-x-49-5",
+    "nota": "Excelente custo-benefício nacional para 250-330 cv em AP. Em 350+ cv já começa a exigir mais atenção com backpressure e temperatura."
+  },
+  {
+    "modelo": "Auto Avionics A50-2.36M",
+    "tipo": "journal bearing / nacional / monofluxo",
+    "compressor_mm": "51 x 71",
+    "turbina_mm": "49,4 x 58",
+    "ar_quente": ".36",
+    "carcaca": "monofluxo",
+    "faixa_hp_publicada": "não consolidada no site; família A50-2 costuma ser usada em 240-420 cv conforme catálogos/revendas",
+    "fonte": "https://autoavionics.com.br/produto/a50-2-36m/",
+    "nota": "Versão de resposta rápida, mas pode aumentar backpressure em potência alta."
+  },
+  {
+    "modelo": "Auto Avionics A50-2.48P",
+    "tipo": "journal bearing / nacional / pulsativa",
+    "compressor_mm": "51 x 71",
+    "turbina_mm": "49,4 x 58",
+    "ar_quente": ".48",
+    "carcaca": "pulsativa / twin scroll",
+    "faixa_hp_publicada": "não consolidada no site; família A50-2 costuma ser usada em 240-420 cv conforme catálogos/revendas",
+    "fonte": "https://autoavionics.com.br/produto/a50-2-48p/",
+    "nota": "Boa candidata para AP 2.0 300-380 cv com coletor pulsativo de verdade."
+  },
+  {
+    "modelo": "Garrett G25-550",
+    "tipo": "ball bearing / importada / alta eficiência",
+    "compressor_mm": "48 x 60",
+    "turbina_mm": "54 x 49",
+    "ar_quente": ".49/.72/.92 conforme conjunto",
+    "carcaca": "várias configurações; algumas internas e externas",
+    "faixa_hp_publicada": "300-550 hp",
+    "fonte": "https://www.garrettmotion.com/racing-and-performance/performance-catalog/turbo/g-series-g25-550/",
+    "nota": "Tecnologicamente muito superior, cara; excelente resposta para fluxo, mas exige coletor e setup à altura."
+  },
+  {
+    "modelo": "Garrett G25-660",
+    "tipo": "ball bearing / importada / alta eficiência",
+    "compressor_mm": "54 x 67",
+    "turbina_mm": "54 x 49",
+    "ar_quente": ".49/.72/.92 conforme conjunto",
+    "carcaca": "várias configurações",
+    "faixa_hp_publicada": "350-660 hp",
+    "fonte": "https://www.garrettmotion.com/racing-and-performance/performance-catalog/turbo/g-series-g25-660/",
+    "nota": "Mais margem para 450+ cv, mas para meta real de 300 cv pode ser superdimensionada."
+  },
+  {
+    "modelo": "BorgWarner EFR 6258",
+    "tipo": "dual ceramic ball bearing / Gamma-Ti / FMW",
+    "compressor_mm": "49 x 62",
+    "turbina_mm": "51 x 58",
+    "ar_quente": ".64/.80/.85 conforme housing",
+    "carcaca": "single ou dual scroll, dependendo versão",
+    "faixa_hp_publicada": "225-450 hp",
+    "fonte": "https://www.borgwarner.com/docs/default-source/iam/boosting-technologies/efr-6258-a.pdf?sfvrsn=595bb03c_17",
+    "nota": "Uma das referências de resposta e pacote tecnológico nessa faixa, mas custo e adaptação podem pesar."
+  }
+]

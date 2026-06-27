@@ -1,0 +1,30 @@
+{
+  "name": "ap-turbo-engineering-manual",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Guia vivo de preparação turbo para motores AP, em Markdown, pronto para publicação com VitePress.",
+  "type": "module",
+  "scripts": {
+    "dev": "vitepress dev docs --host 0.0.0.0",
+    "build": "vitepress build docs",
+    "preview": "vitepress preview docs --host 0.0.0.0",
+    "check:links": "node scripts/check-links.mjs",
+    "manifest": "node scripts/create-manifest.mjs",
+    "zip": "npm run manifest && node scripts/create-zip.mjs",
+    "check:manual": "node scripts/check-manual-standards.mjs"
+  },
+  "keywords": [
+    "ap",
+    "turbo",
+    "automotivo",
+    "preparacao",
+    "vitepress",
+    "markdown"
+  ],
+  "author": "Marcelo Conilho + ChatGPT",
+  "license": "UNLICENSED",
+  "devDependencies": {
+    "@vitejs/plugin-vue": "latest",
+    "vitepress": "latest"
+  }
+}

@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="650" viewBox="0 0 1100 650">
+  <defs>
+    <marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto" markerUnits="strokeWidth">
+      <path d="M0,0 L0,6 L9,3 z" fill="#222" />
+    </marker>
+    <style>
+      .title { font: 700 30px sans-serif; fill:#111; }
+      .sub { font: 400 17px sans-serif; fill:#555; }
+      .label { font: 600 18px sans-serif; fill:#111; }
+      .small { font: 400 15px sans-serif; fill:#333; }
+      .line { stroke:#222; stroke-width:5; fill:none; marker-end:url(#arrow); }
+      .thin { stroke:#555; stroke-width:2; fill:none; marker-end:url(#arrow); }
+      .box { fill:#f5f5f5; stroke:#222; stroke-width:2; rx:18; }
+      .hot { fill:#ffe8e0; stroke:#8a3a1f; stroke-width:2; rx:18; }
+      .cool { fill:#eaf3ff; stroke:#244a7a; stroke-width:2; rx:18; }
+      .bad { fill:#ffd6d6; stroke:#9a1c1c; stroke-width:2; rx:18; }
+      .ok { fill:#e8f6e8; stroke:#286c2c; stroke-width:2; rx:18; }
+    </style>
+  </defs>
+  <rect width="1100" height="650" fill="#ffffff"/>
+  <text x="40" y="55" class="title">Fluxo no coletor: monofluxo vs pulsativo</text>
+  <text x="40" y="85" class="sub">Diagrama conceitual: não é CFD real, é leitura de perdas prováveis por geometria.</text>
+<text x="70" y="135" class="label">Monofluxo</text>
+<rect x="60" y="160" width="420" height="360" class="bad"/>
+<path d="M110 230 C220 230, 300 330, 420 330" class="line"/>
+<path d="M110 300 C230 300, 290 330, 420 330" class="line"/>
+<path d="M110 380 C230 380, 290 330, 420 330" class="line"/>
+<path d="M110 450 C220 450, 300 330, 420 330" class="line"/>
+<text x="95" y="550" class="small">Risco: pulsos se misturam, recirculação e turbulência no merge.</text>
+<text x="620" y="135" class="label">Pulsativo / Twin scroll</text>
+<rect x="610" y="160" width="420" height="360" class="ok"/>
+<path d="M660 235 C770 220, 840 235, 980 275" class="line"/>
+<path d="M660 315 C770 300, 840 295, 980 275" class="line"/>
+<path d="M660 385 C770 400, 840 405, 980 455" class="line"/>
+<path d="M660 465 C770 480, 840 465, 980 455" class="line"/>
+<line x1="800" y1="175" x2="800" y2="505" stroke="#333" stroke-dasharray="8 8" stroke-width="3"/>
+<text x="640" y="550" class="small">Objetivo: preservar pulsos separados até a entrada da turbina.</text>
+</svg>
